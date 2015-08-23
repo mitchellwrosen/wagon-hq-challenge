@@ -1,5 +1,6 @@
 flags: {}
 packages:
 - '.'
-extra-deps: []
+extra-deps:
+- pipes-csv-1.4.0
 resolver: lts-3.2
